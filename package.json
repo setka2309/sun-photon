@@ -46,7 +46,7 @@
     "tronweb": "^2.7.2",
     "truffle-init": "^1.0.7",
     "web3-mock": "1.0.1",
-    "yargs": "^8.0.2"
+    "yargs": "^17.7.2"
   },
   "devDependencies": {
     "@babel/cli": "^7.6.4",
